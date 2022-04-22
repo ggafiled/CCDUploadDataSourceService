@@ -1,0 +1,186 @@
+20/4/2565 9:34:24 LOG:---------- Start Process ----------
+20/4/2565 9:34:24 LOG: Has file in directory
+20/4/2565 9:34:24 LOG: Processing COABOS_TEST.xlsx
+20/4/2565 9:34:24 LOG: initial process file: C:\COABOS\COABOS_TEST.xlsx
+20/4/2565 9:34:39 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+20/4/2565 9:34:39 ERR:Invalid operation. The connection is closed.
+20/4/2565 9:34:39 ERR:Cannot create a file when that file already exists.
+
+20/4/2565 9:34:39 LOG:---------- End Process ----------
+20/4/2565 9:38:11 LOG:---------- Start Process ----------
+20/4/2565 9:38:11 LOG: Has file in directory
+20/4/2565 9:38:11 LOG: Processing COABOS_TEST.xlsx
+20/4/2565 9:38:11 LOG: initial process file: C:\COABOS\COABOS_TEST.xlsx
+20/4/2565 9:38:29 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+20/4/2565 9:38:29 ERR:Invalid operation. The connection is closed.
+20/4/2565 9:38:29 ERR:Cannot create a file when that file already exists.
+
+20/4/2565 9:38:29 LOG:---------- End Process ----------
+20/4/2565 9:41:11 LOG:---------- Start Process ----------
+20/4/2565 9:41:11 LOG: Has file in directory
+20/4/2565 9:41:11 LOG: Processing COABOS_TEST.xlsx
+20/4/2565 9:41:11 LOG: initial process file: C:\COABOS\COABOS_TEST.xlsx
+20/4/2565 9:41:29 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+20/4/2565 9:41:29 ERR:Invalid operation. The connection is closed.
+20/4/2565 9:41:29 ERR:Cannot create a file when that file already exists.
+
+20/4/2565 9:41:29 LOG:---------- End Process ----------
+20/4/2565 9:44:11 LOG:---------- Start Process ----------
+20/4/2565 9:44:11 LOG: Has file in directory
+20/4/2565 9:44:11 LOG: Processing COABOS_TEST.xlsx
+20/4/2565 9:44:11 LOG: initial process file: C:\COABOS\COABOS_TEST.xlsx
+20/4/2565 9:44:30 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+20/4/2565 9:44:30 ERR:Invalid operation. The connection is closed.
+20/4/2565 9:44:30 Failed task can't process file: COABOS_TEST.xlsx
+20/4/2565 9:44:30 LOG:---------- End Process ----------
+20/4/2565 10:07:21 LOG:---------- Start Process ----------
+20/4/2565 10:07:21 LOG: Has file in directory
+20/4/2565 10:07:21 LOG: Processing COABOS_TEST.xlsx
+20/4/2565 10:07:21 LOG: initial process file: C:\COABOS\COABOS_TEST.xlsx
+20/4/2565 10:07:37 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+20/4/2565 10:07:37 ERR:An error occured while retrieving the InformationSchemaTable information. See the inner exception for details.
+20/4/2565 10:07:37 Failed task can't process file: COABOS_TEST.xlsx
+20/4/2565 10:07:37 LOG:---------- End Process ----------
+20/4/2565 10:12:45 LOG:---------- Start Process ----------
+20/4/2565 10:12:45 LOG: Has file in directory
+20/4/2565 10:12:45 LOG: Processing COABOS_TEST.xlsx
+20/4/2565 10:12:45 LOG: initial process file: C:\COABOS\COABOS_TEST.xlsx
+20/4/2565 10:13:02 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+20/4/2565 10:13:02 ERR:An error occured while retrieving the InformationSchemaTable information. See the inner exception for details.
+20/4/2565 10:13:02 Failed task can't process file: COABOS_TEST.xlsx
+20/4/2565 10:13:02 LOG:---------- End Process ----------
+20/4/2565 22:14:47 LOG:---------- Start Process ----------
+20/4/2565 22:14:47 LOG: Has file in directory
+20/4/2565 22:14:47 LOG: Processing COABOS_TEST.xlsx
+20/4/2565 22:14:47 LOG: initial process file: C:\COABOS\COABOS_TEST.xlsx
+20/4/2565 22:15:23 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+20/4/2565 22:15:24 ERR:An error occured while retrieving the InformationSchemaTable information. See the inner exception for details.
+20/4/2565 22:15:24 Failed task can't process file: COABOS_TEST.xlsx
+20/4/2565 22:15:24 LOG:---------- End Process ----------
+20/4/2565 22:20:28 LOG:---------- Start Process ----------
+20/4/2565 22:20:28 LOG: Has file in directory
+20/4/2565 22:20:28 LOG: Processing COABOS_TEST.xlsx
+20/4/2565 22:20:28 LOG: initial process file: C:\COABOS\COABOS_TEST.xlsx
+20/4/2565 22:21:04 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+20/4/2565 22:21:05 LOG: completed import data into database: C:\COABOS\COABOS_TEST.xlsx
+20/4/2565 22:21:05 Move to Backup: C:\COABOS\COABOS_TEST.xlsx
+20/4/2565 22:21:05 LOG:---------- End Process ----------
+20/4/2565 22:27:38 LOG:---------- Start Process ----------
+20/4/2565 22:27:38 LOG: Has file in directory
+20/4/2565 22:27:38 LOG: Processing COABOS_TEST_EDITABLE.xlsx
+20/4/2565 22:27:39 LOG: initial process file: C:\COABOS\COABOS_TEST_EDITABLE.xlsx
+20/4/2565 22:28:20 LOG: load data into list: C:\COABOS\COABOS_TEST_EDITABLE.xlsx Count:38
+20/4/2565 22:28:22 LOG: completed import data into database: C:\COABOS\COABOS_TEST_EDITABLE.xlsx
+20/4/2565 22:28:22 Move to Backup: C:\COABOS\COABOS_TEST_EDITABLE.xlsx
+20/4/2565 22:28:22 LOG:---------- End Process ----------
+20/4/2565 22:34:19 LOG:---------- Start Process ----------
+20/4/2565 22:34:19 LOG: Has file in directory
+20/4/2565 22:34:19 LOG: Processing COABOS_TEST_EDITABLE.xlsx
+20/4/2565 22:34:19 LOG: initial process file: C:\COABOS\COABOS_TEST_EDITABLE.xlsx
+20/4/2565 22:34:57 LOG: load data into list: C:\COABOS\COABOS_TEST_EDITABLE.xlsx Count:38
+20/4/2565 22:34:58 LOG: completed import data into database: C:\COABOS\COABOS_TEST_EDITABLE.xlsx
+20/4/2565 22:34:58 Move to Backup: C:\COABOS\COABOS_TEST_EDITABLE.xlsx
+20/4/2565 22:34:58 LOG:---------- End Process ----------
+20/4/2565 22:40:19 LOG:---------- Start Process ----------
+20/4/2565 22:40:19 LOG: Has file in directory
+20/4/2565 22:40:19 LOG: Processing COABOS.xlsx
+20/4/2565 22:40:19 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 22:40:19 ERR:The process cannot access the file 'C:\COABOS\COABOS.xlsx' because it is being used by another process.
+20/4/2565 22:40:19 ERR:The process cannot access the file because it is being used by another process.
+20/4/2565 22:40:19 LOG:---------- End Process ----------
+20/4/2565 22:43:19 LOG:---------- Start Process ----------
+20/4/2565 22:43:19 LOG: Has file in directory
+20/4/2565 22:43:19 LOG: Processing COABOS.xlsx
+20/4/2565 22:43:19 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 22:46:19 LOG:---------- Start Process ----------
+20/4/2565 22:46:19 LOG: Has file in directory
+20/4/2565 22:46:19 LOG: Processing COABOS.xlsx
+20/4/2565 22:46:19 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 22:49:19 LOG:---------- Start Process ----------
+20/4/2565 22:49:19 LOG: Has file in directory
+20/4/2565 22:49:19 LOG: Processing COABOS.xlsx
+20/4/2565 22:49:19 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 22:52:19 LOG:---------- Start Process ----------
+20/4/2565 22:52:19 LOG: Has file in directory
+20/4/2565 22:52:19 LOG: Processing COABOS.xlsx
+20/4/2565 22:52:19 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 22:55:19 LOG:---------- Start Process ----------
+20/4/2565 22:55:19 LOG: Has file in directory
+20/4/2565 22:55:19 LOG: Processing COABOS.xlsx
+20/4/2565 22:55:19 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 22:58:19 LOG:---------- Start Process ----------
+20/4/2565 22:58:19 LOG: Has file in directory
+20/4/2565 22:58:19 LOG: Processing COABOS.xlsx
+20/4/2565 22:58:19 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:01:19 LOG:---------- Start Process ----------
+20/4/2565 23:01:19 LOG: Has file in directory
+20/4/2565 23:01:19 LOG: Processing COABOS.xlsx
+20/4/2565 23:01:19 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:04:19 LOG:---------- Start Process ----------
+20/4/2565 23:04:19 LOG: Has file in directory
+20/4/2565 23:04:19 LOG: Processing COABOS.xlsx
+20/4/2565 23:04:19 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:07:21 LOG:---------- Start Process ----------
+20/4/2565 23:07:21 LOG: Has file in directory
+20/4/2565 23:07:21 LOG: Processing COABOS.xlsx
+20/4/2565 23:07:24 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:10:19 LOG:---------- Start Process ----------
+20/4/2565 23:10:19 LOG: Has file in directory
+20/4/2565 23:10:19 LOG: Processing COABOS.xlsx
+20/4/2565 23:10:19 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:13:19 LOG:---------- Start Process ----------
+20/4/2565 23:13:19 LOG: Has file in directory
+20/4/2565 23:13:19 LOG: Processing COABOS.xlsx
+20/4/2565 23:13:19 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:15:29 ERR:Exception of type 'System.OutOfMemoryException' was thrown.
+20/4/2565 23:15:29 ERR:Exception of type 'System.OutOfMemoryException' was thrown.
+20/4/2565 23:15:29 ERR:The process cannot access the file 'C:\Users\nkrobkla\source\repos\CCDUploadDataSourceService\CCDUploadDataSourceService\bin\Release\Logs\ServiceLog_20_4_2565.txt' because it is being used by another process.
+20/4/2565 23:15:29 LOG:---------- End Process ----------
+20/4/2565 23:25:04 LOG:---------- Start Process ----------
+20/4/2565 23:25:04 LOG: Has file in directory
+20/4/2565 23:25:04 LOG: Processing COABOS.xlsx
+20/4/2565 23:25:05 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:28:04 LOG:---------- Start Process ----------
+20/4/2565 23:28:04 LOG: Has file in directory
+20/4/2565 23:28:04 LOG: Processing COABOS.xlsx
+20/4/2565 23:28:04 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:31:04 LOG:---------- Start Process ----------
+20/4/2565 23:31:04 LOG: Has file in directory
+20/4/2565 23:31:04 LOG: Processing COABOS.xlsx
+20/4/2565 23:31:04 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:34:04 LOG:---------- Start Process ----------
+20/4/2565 23:34:04 LOG: Has file in directory
+20/4/2565 23:34:04 LOG: Processing COABOS.xlsx
+20/4/2565 23:34:04 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:37:04 LOG:---------- Start Process ----------
+20/4/2565 23:37:04 LOG: Has file in directory
+20/4/2565 23:37:04 LOG: Processing COABOS.xlsx
+20/4/2565 23:37:04 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:40:04 LOG:---------- Start Process ----------
+20/4/2565 23:40:04 LOG: Has file in directory
+20/4/2565 23:40:04 LOG: Processing COABOS.xlsx
+20/4/2565 23:40:04 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:43:04 LOG:---------- Start Process ----------
+20/4/2565 23:43:04 LOG: Has file in directory
+20/4/2565 23:43:04 LOG: Processing COABOS.xlsx
+20/4/2565 23:43:04 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:46:04 LOG:---------- Start Process ----------
+20/4/2565 23:46:04 LOG: Has file in directory
+20/4/2565 23:46:04 LOG: Processing COABOS.xlsx
+20/4/2565 23:46:04 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:47:44 LOG: load data into list: C:\COABOS\COABOS.xlsx Count:351523
+20/4/2565 23:49:04 LOG:---------- Start Process ----------
+20/4/2565 23:49:05 LOG: Has file in directory
+20/4/2565 23:49:05 LOG: Processing COABOS.xlsx
+20/4/2565 23:49:05 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:49:49 ERR:A timeout error occured (Current Timeout = 120). Please increase the timeout globally: BulkOperationManager.BulkOperationBuilder = operation => operation.BatchTimeout = timeoutValue; or by operation: bulkOperation.BatchTimeout = timeoutValue;
+20/4/2565 23:49:49 ERR:The process cannot access the file because it is being used by another process.
+20/4/2565 23:49:49 LOG:---------- End Process ----------
+20/4/2565 23:52:05 LOG:---------- Start Process ----------
+20/4/2565 23:52:05 LOG: Has file in directory
+20/4/2565 23:52:05 LOG: Processing COABOS.xlsx
+20/4/2565 23:52:05 LOG: initial process file: C:\COABOS\COABOS.xlsx
+20/4/2565 23:55:05 LOG:---------- Start Process ----------
+20/4/2565 23:55:05 LOG: Has file in directory
+20/4/2565 23:55:05 LOG: Processing COABOS.xlsx
+20/4/2565 23:55:05 LOG: initial process file: C:\COABOS\COABOS.xlsx

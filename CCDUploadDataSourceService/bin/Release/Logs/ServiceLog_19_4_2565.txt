@@ -1,0 +1,33 @@
+19/4/2565 22:41:54 LOG:---------- Start Process ----------
+19/4/2565 22:41:54 LOG: Has file in directory
+19/4/2565 22:41:54 LOG: Processing COABOS_TEST.xlsx
+19/4/2565 22:41:54 LOG: initial process file: C:\COABOS\COABOS_TEST.xlsx
+19/4/2565 22:42:29 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+19/4/2565 22:42:30 ERR:Cannot insert the value NULL into column 'Waybill', table 'BKKCCDLeadTime.dbo.COABOS'; column does not allow nulls. UPDATE fails.
+19/4/2565 22:42:30 Failed task can't process file: COABOS_TEST.xlsx
+19/4/2565 22:42:30 LOG:---------- End Process ----------
+19/4/2565 22:49:41 LOG:---------- Start Process ----------
+19/4/2565 22:49:41 LOG: Has file in directory
+19/4/2565 22:49:41 LOG: Processing COABOS_TEST.xlsx
+19/4/2565 22:49:41 LOG: initial process file: C:\COABOS\COABOS_TEST.xlsx
+19/4/2565 22:50:16 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+19/4/2565 22:50:17 ERR:Cannot insert the value NULL into column 'Waybill', table 'BKKCCDLeadTime.dbo.COABOS'; column does not allow nulls. UPDATE fails.
+19/4/2565 22:50:17 Failed task can't process file: COABOS_TEST.xlsx
+19/4/2565 22:50:17 LOG:---------- End Process ----------
+19/4/2565 22:58:41 LOG:---------- Start Process ----------
+19/4/2565 22:58:41 LOG: Has file in directory
+19/4/2565 22:58:41 LOG: Processing COABOS_TEST.xlsx
+19/4/2565 22:58:41 LOG: initial process file: C:\COABOS\COABOS_TEST.xlsx
+19/4/2565 22:59:16 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+19/4/2565 22:59:16 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+19/4/2565 22:59:17 ERR:Cannot insert the value NULL into column 'Waybill', table 'BKKCCDLeadTime.dbo.COABOS'; column does not allow nulls. UPDATE fails.
+19/4/2565 22:59:17 Failed task can't process file: COABOS_TEST.xlsx
+19/4/2565 22:59:17 LOG:---------- End Process ----------
+19/4/2565 23:13:48 LOG:---------- Start Process ----------
+19/4/2565 23:13:48 LOG: Has file in directory
+19/4/2565 23:13:48 LOG: Processing COABOS_TEST.xlsx
+19/4/2565 23:13:49 LOG: initial process file: C:\COABOS\COABOS_TEST.xlsx
+19/4/2565 23:14:24 LOG: load data into list: C:\COABOS\COABOS_TEST.xlsx Count:38
+19/4/2565 23:14:24 ERR:Invalid operation. The connection is closed.
+19/4/2565 23:14:24 Failed task can't process file: COABOS_TEST.xlsx
+19/4/2565 23:14:24 LOG:---------- End Process ----------
