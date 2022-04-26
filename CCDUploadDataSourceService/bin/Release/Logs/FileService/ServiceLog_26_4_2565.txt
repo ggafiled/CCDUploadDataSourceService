@@ -1,0 +1,36 @@
+26/4/2565 22:20:45 Start service [FileProcess]
+26/4/2565 22:20:46 Start service [TaskQueue]
+26/4/2565 22:23:46 LOG:---------- Start Process ----------
+26/4/2565 22:23:46 LOG: Has file in directory
+26/4/2565 22:23:46 LOG: Processing: COABOS_251420.xlsx
+26/4/2565 22:23:46 LOG: Moved to queue folder: COABOS_251420.xlsx
+26/4/2565 22:23:46 LOG: Added to queue[CCD_BKK_DATASOURCE01]: COABOS_251420.xlsx
+26/4/2565 22:23:46 LOG:---------- End Process ----------
+26/4/2565 22:23:46 LOG:---------- Start Process ----------
+26/4/2565 22:23:46 LOG: Has file in directory
+26/4/2565 22:23:46 LOG: Processing: OPMS_Data_Source_2449.xlsx
+26/4/2565 22:23:46 LOG: Moved to queue folder: OPMS_Data_Source_2449.xlsx
+26/4/2565 22:23:46 LOG: Added to queue[CCD_BKK_DATASOURCE01]: OPMS_Data_Source_2449.xlsx
+26/4/2565 22:23:46 LOG:---------- End Process ----------
+26/4/2565 22:23:46 LOG:---------- Start Process ----------
+26/4/2565 22:23:46 LOG: Has file in directory
+26/4/2565 22:23:46 LOG: Processing: Volume_151.xlsx
+26/4/2565 22:23:46 LOG: Moved to queue folder: Volume_151.xlsx
+26/4/2565 22:23:46 LOG: Added to queue[CCD_BKK_DATASOURCE01]: Volume_151.xlsx
+26/4/2565 22:23:46 LOG:---------- End Process ----------
+26/4/2565 22:23:46 LOG:---------- Start Process ----------
+26/4/2565 22:23:46 LOG: Has file in directory
+26/4/2565 22:23:46 LOG: Processing: Cognos_Density_Report_754.xlsx
+26/4/2565 22:23:46 LOG: Moved to queue folder: Cognos_Density_Report_754.xlsx
+26/4/2565 22:23:46 LOG: Added to queue[CCD_BKK_DATASOURCE01]: Cognos_Density_Report_754.xlsx
+26/4/2565 22:23:46 LOG:---------- End Process ----------
+26/4/2565 22:33:20 Stop service
+26/4/2565 22:43:24 Start service [FileProcess]
+26/4/2565 22:43:24 Start service [TaskQueue]
+26/4/2565 22:49:47 Stop service
+26/4/2565 22:55:49 Start service [FileProcess]
+26/4/2565 22:55:49 Start service [TaskQueue]
+26/4/2565 23:02:14 Stop service
+26/4/2565 23:03:23 Start service [FileProcess]
+26/4/2565 23:03:23 Start service [TaskQueue]
+26/4/2565 23:16:10 Stop service

@@ -1,0 +1,201 @@
+26/4/2565 22:23:46 LOG:---------- Start Process ----------
+26/4/2565 22:23:46 LOG: initial process file[T]: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:23:46 LOG: starting grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:28:31 LOG: end grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:28:31 LOG: remove empty data: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:28:31 LOG: load data into list: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx Count: 351420
+26/4/2565 22:28:31 Failed task can't process file: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:28:31 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 22:28:31 LOG:---------- Start Process ----------
+26/4/2565 22:28:31 LOG: initial process file[T]: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:28:31 LOG: starting grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:28:31 LOG: end grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:28:31 LOG: remove empty data: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:28:31 LOG: load data into list: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx Count: 2448
+26/4/2565 22:28:31 Failed task can't process file: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:28:31 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 22:28:31 LOG:---------- Start Process ----------
+26/4/2565 22:28:31 LOG: initial process file[T]: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:28:31 LOG: starting grep all data to model: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:28:31 LOG: end grep all data to model: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:28:31 LOG: remove empty data: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:28:31 LOG: load data into list: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx Count: 151
+26/4/2565 22:28:31 Failed task can't process file: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:28:31 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 22:28:31 LOG:---------- Start Process ----------
+26/4/2565 22:28:31 LOG: initial process file[T]: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:28:31 LOG: starting grep all data to model: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:28:31 LOG: end grep all data to model: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:28:31 LOG: remove empty data: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:28:31 LOG: load data into list: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx Count: 754
+26/4/2565 22:28:31 Failed task can't process file: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:28:31 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 22:28:31 LOG:---------- Start Process ----------
+26/4/2565 22:28:31 LOG: initial process file[T]: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:28:31 LOG: starting grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:33:04 LOG: end grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:33:04 LOG: remove empty data: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:33:04 LOG: load data into list: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx Count: 351420
+26/4/2565 22:33:04 Failed task can't process file: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:33:04 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 22:33:04 LOG:---------- Start Process ----------
+26/4/2565 22:33:04 LOG: initial process file[T]: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:33:04 LOG: starting grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:33:04 LOG: end grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:33:04 LOG: remove empty data: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:33:04 LOG: load data into list: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx Count: 2448
+26/4/2565 22:33:04 Failed task can't process file: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:33:04 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 22:33:04 LOG:---------- Start Process ----------
+26/4/2565 22:33:04 LOG: initial process file[T]: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:33:04 LOG: starting grep all data to model: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:33:04 LOG: end grep all data to model: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:33:04 LOG: remove empty data: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:33:04 LOG: load data into list: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx Count: 151
+26/4/2565 22:33:04 Failed task can't process file: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:33:04 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 22:33:04 LOG:---------- Start Process ----------
+26/4/2565 22:33:04 LOG: initial process file[T]: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:33:04 LOG: starting grep all data to model: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:33:04 LOG: end grep all data to model: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:33:04 LOG: remove empty data: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:33:04 LOG: load data into list: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx Count: 754
+26/4/2565 22:33:04 Failed task can't process file: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:33:04 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 22:33:04 LOG:---------- Start Process ----------
+26/4/2565 22:33:04 LOG: initial process file[T]: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:33:04 LOG: starting grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:43:24 LOG:---------- Start Process ----------
+26/4/2565 22:43:25 LOG: initial process file[T]: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:43:25 LOG: starting grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:48:04 LOG: end grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:48:04 LOG: remove empty data: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:48:04 LOG: load data into list: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx Count: 351420
+26/4/2565 22:48:04 Failed task can't process file: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:48:04 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 22:48:04 LOG:---------- Start Process ----------
+26/4/2565 22:48:04 LOG: initial process file[T]: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:48:04 LOG: starting grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:48:04 LOG: end grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:48:04 LOG: remove empty data: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:48:04 LOG: load data into list: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx Count: 2448
+26/4/2565 22:48:04 Failed task can't process file: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 22:48:04 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 22:48:04 LOG:---------- Start Process ----------
+26/4/2565 22:48:04 LOG: initial process file[T]: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:48:04 LOG: starting grep all data to model: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:48:04 Failed task can't process file: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 22:48:04 ERR: Exception has been thrown by the target of an invocation.
+26/4/2565 22:48:04 LOG:---------- Start Process ----------
+26/4/2565 22:48:04 LOG: initial process file[T]: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:48:04 LOG: starting grep all data to model: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:48:04 LOG: end grep all data to model: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:48:04 LOG: remove empty data: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:48:04 LOG: load data into list: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx Count: 754
+26/4/2565 22:48:04 Failed task can't process file: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 22:48:04 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 22:48:04 LOG:---------- Start Process ----------
+26/4/2565 22:48:04 LOG: initial process file[T]: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:48:04 LOG: starting grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:55:50 LOG:---------- Start Process ----------
+26/4/2565 22:55:50 LOG: initial process file[T]: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 22:55:50 LOG: starting grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:00:27 LOG: end grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:00:27 LOG: remove empty data: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:00:27 LOG: load data into list: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx Count: 351420
+26/4/2565 23:00:27 Failed task can't process file: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:00:27 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 23:00:27 LOG:---------- Start Process ----------
+26/4/2565 23:00:27 LOG: initial process file[T]: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:00:27 LOG: starting grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:00:27 LOG: end grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:00:27 LOG: remove empty data: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:00:27 LOG: load data into list: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx Count: 2448
+26/4/2565 23:00:27 Failed task can't process file: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:00:27 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 23:00:27 LOG:---------- Start Process ----------
+26/4/2565 23:00:27 LOG: initial process file[T]: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:00:27 LOG: starting grep all data to model: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:00:27 LOG: end grep all data to model: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:00:27 LOG: remove empty data: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:00:27 LOG: load data into list: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx Count: 151
+26/4/2565 23:00:27 Failed task can't process file: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:00:27 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 23:00:27 LOG:---------- Start Process ----------
+26/4/2565 23:00:27 LOG: initial process file[T]: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:00:27 LOG: starting grep all data to model: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:00:27 LOG: end grep all data to model: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:00:27 LOG: remove empty data: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:00:27 LOG: load data into list: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx Count: 754
+26/4/2565 23:00:27 Failed task can't process file: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:00:27 ERR: Format of the initialization string does not conform to specification starting at index 118.
+26/4/2565 23:00:27 LOG:---------- Start Process ----------
+26/4/2565 23:00:27 LOG: initial process file[T]: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:00:27 LOG: starting grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:03:23 LOG:---------- Start Process ----------
+26/4/2565 23:03:24 LOG: initial process file[CCDUploadDataSourceService.Model.COABOS]: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:03:24 LOG: starting grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:08:11 LOG: end grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:08:11 LOG: remove empty data: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:08:11 LOG: load data into list: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx Count: 351420
+26/4/2565 23:08:27 Failed task can't process file: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:08:27 ERR: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+26/4/2565 23:08:27 LOG:---------- Start Process ----------
+26/4/2565 23:08:27 LOG: initial process file[CCDUploadDataSourceService.Model.OPMS]: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:08:27 LOG: starting grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:08:27 LOG: end grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:08:27 LOG: remove empty data: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:08:27 LOG: load data into list: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx Count: 2448
+26/4/2565 23:08:27 Failed task can't process file: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:08:27 ERR: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+26/4/2565 23:08:27 LOG:---------- Start Process ----------
+26/4/2565 23:08:27 LOG: initial process file[CCDUploadDataSourceService.Model.Volume]: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:08:27 LOG: starting grep all data to model: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:08:28 LOG: end grep all data to model: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:08:28 LOG: remove empty data: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:08:28 LOG: load data into list: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx Count: 151
+26/4/2565 23:08:28 Failed task can't process file: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:08:28 ERR: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+26/4/2565 23:08:28 LOG:---------- Start Process ----------
+26/4/2565 23:08:28 LOG: initial process file[CCDUploadDataSourceService.Model.Density]: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:08:28 LOG: starting grep all data to model: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:08:28 LOG: end grep all data to model: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:08:28 LOG: remove empty data: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:08:28 LOG: load data into list: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx Count: 754
+26/4/2565 23:08:28 Failed task can't process file: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:08:28 ERR: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+26/4/2565 23:08:28 LOG:---------- Start Process ----------
+26/4/2565 23:08:28 LOG: initial process file[CCDUploadDataSourceService.Model.COABOS]: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:08:28 LOG: starting grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:13:22 LOG: end grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:13:22 LOG: remove empty data: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:13:22 LOG: load data into list: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx Count: 351420
+26/4/2565 23:13:38 Failed task can't process file: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:13:38 ERR: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+26/4/2565 23:13:38 LOG:---------- Start Process ----------
+26/4/2565 23:13:38 LOG: initial process file[CCDUploadDataSourceService.Model.OPMS]: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:13:38 LOG: starting grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:13:38 LOG: end grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:13:38 LOG: remove empty data: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:13:38 LOG: load data into list: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx Count: 2448
+26/4/2565 23:13:38 Failed task can't process file: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+26/4/2565 23:13:38 ERR: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+26/4/2565 23:13:38 LOG:---------- Start Process ----------
+26/4/2565 23:13:38 LOG: initial process file[CCDUploadDataSourceService.Model.Volume]: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:13:38 LOG: starting grep all data to model: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:13:38 LOG: end grep all data to model: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:13:38 LOG: remove empty data: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:13:38 LOG: load data into list: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx Count: 151
+26/4/2565 23:13:38 Failed task can't process file: C:\BI_TEST\VOLUME\Backup\Volume_151.xlsx
+26/4/2565 23:13:38 ERR: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+26/4/2565 23:13:38 LOG:---------- Start Process ----------
+26/4/2565 23:13:38 LOG: initial process file[CCDUploadDataSourceService.Model.Density]: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:13:38 LOG: starting grep all data to model: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:13:38 LOG: end grep all data to model: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:13:38 LOG: remove empty data: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:13:38 LOG: load data into list: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx Count: 754
+26/4/2565 23:13:38 Failed task can't process file: C:\BI_TEST\DENSITY\Backup\Cognos_Density_Report_754.xlsx
+26/4/2565 23:13:38 ERR: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+26/4/2565 23:13:38 LOG:---------- Start Process ----------
+26/4/2565 23:13:38 LOG: initial process file[CCDUploadDataSourceService.Model.COABOS]: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
+26/4/2565 23:13:38 LOG: starting grep all data to model: C:\BI_TEST\COABOS\Backup\COABOS_251420.xlsx
