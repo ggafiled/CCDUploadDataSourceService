@@ -29,6 +29,8 @@ namespace CCDUploadDataSourceService
             try
             {
                 Util.WriteToFile("Start service [FileProcess]");
+                Util.WriteToFile($"LOG: Fous on {coabosRootPathIn}, {densityRootPathIn}, {opmsRootPathIn}, {volumeRootPathIn}");
+
                 mqFactory = new ConnectionFactory() { HostName = mqHost, UserName = mqUsername, Password = mqPassword };
                 mqConnection = mqFactory.CreateConnection();
                 mqChannel = mqConnection.CreateModel();

@@ -64,7 +64,7 @@ namespace CCDUploadDataSourceService
             {
                 Directory.CreateDirectory(LogPath);
             }
-            string filepath = LogPath + "\\ServiceLog_" + DateTime.Now.Date.ToShortDateString().Replace('/', '_') + ".txt";
+            string filepath = LogPath + "\\ServiceLog_" + DateTime.Now.Date.ToString("dd_MM_yyyy") + ".txt";
             if (!File.Exists(filepath))
             {
                 using (StreamWriter sw = File.CreateText(filepath))
