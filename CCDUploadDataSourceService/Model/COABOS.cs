@@ -25,7 +25,7 @@ namespace CCDUploadDataSourceService.Model
         public string PcsRecKey { get; set; }
 
         [ExcelColumnName("Startclock Date")]
-        public string StartclockDate { get; set; }
+        public DateTime StartclockDate { get; set; }
 
         [ExcelColumnName("Product Group")]
         public string ProductGroup { get; set; }

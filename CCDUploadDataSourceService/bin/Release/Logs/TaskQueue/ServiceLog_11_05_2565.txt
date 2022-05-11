@@ -1,0 +1,64 @@
+11/5/2565 10:17:48 LOG:---------- Start Process ----------
+11/5/2565 10:17:48 LOG: initial process file[CCDUploadDataSourceService.Model.Draft]: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:17:48 LOG: starting grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:17:49 LOG: end grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:17:49 LOG: remove empty data: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:17:49 LOG: load data into list: C:\BI_TEST\DRAFT\Backup\Draft.xlsx Count: 0
+11/5/2565 10:17:49 LOG: completed import data into database: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:17:49 Move to Backup: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:23:48 LOG:---------- Start Process ----------
+11/5/2565 10:23:48 LOG: initial process file[CCDUploadDataSourceService.Model.Draft]: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:23:48 LOG: starting grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:23:49 LOG: end grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:23:49 LOG: remove empty data: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:23:49 LOG: load data into list: C:\BI_TEST\DRAFT\Backup\Draft.xlsx Count: 0
+11/5/2565 10:23:49 LOG: completed import data into database: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:23:49 Move to Backup: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:31:18 LOG:---------- Start Process ----------
+11/5/2565 10:31:18 LOG: initial process file[CCDUploadDataSourceService.Model.Draft]: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:31:18 LOG: starting grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:31:19 LOG: end grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:31:19 LOG: remove empty data: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:31:19 LOG: load data into list: C:\BI_TEST\DRAFT\Backup\Draft.xlsx Count: 0
+11/5/2565 10:31:19 LOG: completed import data into database: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:31:19 Move to Backup: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:37:18 LOG:---------- Start Process ----------
+11/5/2565 10:37:18 LOG: initial process file[CCDUploadDataSourceService.Model.Draft]: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:37:18 LOG: starting grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:37:19 LOG: end grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:37:19 LOG: remove empty data: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:37:19 LOG: load data into list: C:\BI_TEST\DRAFT\Backup\Draft.xlsx Count: 0
+11/5/2565 10:37:19 LOG: completed import data into database: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:37:19 Move to Backup: C:\BI_TEST\DRAFT\Backup\Draft.xlsx
+11/5/2565 10:40:18 LOG:---------- Start Process ----------
+11/5/2565 10:40:18 LOG: initial process file[CCDUploadDataSourceService.Model.OPMS]: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+11/5/2565 10:40:18 LOG: starting grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+11/5/2565 10:40:18 LOG: end grep all data to model: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+11/5/2565 10:40:18 LOG: remove empty data: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+11/5/2565 10:40:18 LOG: load data into list: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx Count: 2448
+11/5/2565 10:40:19 LOG: completed import data into database: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+11/5/2565 10:40:19 Move to Backup: C:\BI_TEST\OPMS_KPI\Backup\OPMS_Data_Source_2449.xlsx
+11/5/2565 11:05:36 LOG:---------- Start Process ----------
+11/5/2565 11:05:36 LOG: initial process file[CCDUploadDataSourceService.Model.Draft]: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx
+11/5/2565 11:05:36 LOG: starting grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx
+11/5/2565 11:05:37 LOG: end grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx
+11/5/2565 11:05:37 LOG: remove empty data: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx
+11/5/2565 11:05:37 LOG: load data into list: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx Count: 0
+11/5/2565 11:05:37 LOG: completed import data into database: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx
+11/5/2565 11:05:37 Move to Backup: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx
+11/5/2565 11:10:09 LOG:---------- Start Process ----------
+11/5/2565 11:10:09 LOG: initial process file[CCDUploadDataSourceService.Model.Draft]: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx
+11/5/2565 11:10:09 LOG: starting grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx
+11/5/2565 11:10:09 LOG: end grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx
+11/5/2565 11:10:09 LOG: remove empty data: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx
+11/5/2565 11:10:09 LOG: load data into list: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx Count: 0
+11/5/2565 11:10:09 LOG: completed import data into database: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx
+11/5/2565 11:10:09 Move to Backup: C:\BI_TEST\DRAFT\Backup\Draft_20.xlsx
+11/5/2565 12:25:09 LOG:---------- Start Process ----------
+11/5/2565 12:25:09 LOG: initial process file[CCDUploadDataSourceService.Model.Draft]: C:\BI_TEST\DRAFT\Backup\Draft_test_33022.xlsx
+11/5/2565 12:25:09 LOG: starting grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft_test_33022.xlsx
+11/5/2565 12:25:11 LOG: end grep all data to model: C:\BI_TEST\DRAFT\Backup\Draft_test_33022.xlsx
+11/5/2565 12:25:11 LOG: remove empty data: C:\BI_TEST\DRAFT\Backup\Draft_test_33022.xlsx
+11/5/2565 12:25:11 LOG: load data into list: C:\BI_TEST\DRAFT\Backup\Draft_test_33022.xlsx Count: 33021
+11/5/2565 12:25:13 LOG: completed import data into database: C:\BI_TEST\DRAFT\Backup\Draft_test_33022.xlsx
+11/5/2565 12:25:13 Move to Backup: C:\BI_TEST\DRAFT\Backup\Draft_test_33022.xlsx

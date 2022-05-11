@@ -57,7 +57,7 @@ namespace CCDUploadDataSourceService
                     var content = JsonConvert.DeserializeObject<CCDMessage>(body);
 
                     //string fileName = Encoding.UTF8.GetString(ea.Body.ToArray());
-                    string file = Path.Combine(coabosRootPathBackUp, content.fileName);
+                    string file = content.fileName;
                     // handle the received message
 
                     var mappings = new Dictionary<DataSourceType, Action> {
@@ -85,6 +85,11 @@ namespace CCDUploadDataSourceService
                             !String.IsNullOrEmpty(x.HandledDate.ToString()) &&
                             !String.IsNullOrEmpty(x.HandledYear)).GroupBy(x => x.HandledDate).Select(x => x.LastOrDefault()).ToList(),
                             () => DapperPlusManager.Entity<Volume>().Table(nameof(Volume)).Key(x => x.HandledDate).InsertIfNotExists())
+                        },
+                        {
+                            DataSourceType.Draft, () => processDatatoDatabase<Draft>(file, draftRootPathBackUp, draftRootPathBackUpIncorrect, ea.DeliveryTag,(s) => s.Query<Draft>(configuration: config).Where(x =>
+                            !String.IsNullOrEmpty(x.HAWBNo)).GroupBy(x => x.HAWBNo).Select(x => x.LastOrDefault()).ToList(),
+                            () => DapperPlusManager.Entity<Draft>().Table(nameof(Draft)).Key(x => x.HAWBNo).InsertIfNotExists())
                         }
                     };
 

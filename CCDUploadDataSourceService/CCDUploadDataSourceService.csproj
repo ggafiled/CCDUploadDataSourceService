@@ -103,6 +103,7 @@
     <Compile Include="Model\COABOS.cs" />
     <Compile Include="Global.cs" />
     <Compile Include="Model\Density.cs" />
+    <Compile Include="Model\Draft.cs" />
     <Compile Include="Model\OPMS.cs" />
     <Compile Include="Model\Volume.cs" />
     <Compile Include="ProjectInstaller.cs">

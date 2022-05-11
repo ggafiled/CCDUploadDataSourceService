@@ -21,7 +21,8 @@ namespace CCDUploadDataSourceService
         Density,
         OPMS_KPI,
         LDM,
-        Volume
+        Volume,
+        Draft
     }
 
     class Util

@@ -35,6 +35,12 @@ namespace CCDUploadDataSourceService
         public static string densityRootPathBackUpIncorrect = ConfigurationManager.AppSettings["DENSITY_BACKUP_INCORECTFORMAT_DIRECTORY"];
         public static string densityFileExtension = ConfigurationManager.AppSettings["DENSITY_FILE_EXTENSION"];
 
+        //Draft
+        public static string draftRootPathIn = ConfigurationManager.AppSettings["DRAFT_INPUT_DIRECTORY"];
+        public static string draftRootPathBackUp = ConfigurationManager.AppSettings["DRAFT_BACKUP_DIRECTORY"];
+        public static string draftRootPathBackUpIncorrect = ConfigurationManager.AppSettings["DRAFT_BACKUP_INCORECTFORMAT_DIRECTORY"];
+        public static string draftFileExtension = ConfigurationManager.AppSettings["DRAFT_FILE_EXTENSION"];
+
         //RabbitMQ
         public static string connetionString = ConfigurationManager.ConnectionStrings["CCDDataSource"].ConnectionString;
         public static string mqHost = ConfigurationManager.AppSettings["MQ_HOST"];

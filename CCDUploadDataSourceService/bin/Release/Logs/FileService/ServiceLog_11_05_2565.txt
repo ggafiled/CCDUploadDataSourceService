@@ -1,0 +1,93 @@
+11/5/2565 9:42:59 Start service [FileProcess]
+11/5/2565 9:42:59 LOG: Fous on W:\COABOS, W:\DENSITY, W:\OPMS_KPI, W:\VOLUME
+11/5/2565 9:42:59 Start service [TaskQueue]
+11/5/2565 9:56:28 Stop service
+11/5/2565 9:56:49 Start service [FileProcess]
+11/5/2565 9:56:49 LOG: Fous on C:\BI_TEST\COABOS, C:\BI_TEST\DENSITY, C:\BI_TEST\OPMS_KPI, C:\BI_TEST\VOLUME
+11/5/2565 9:56:49 Start service [TaskQueue]
+11/5/2565 9:59:49 LOG:---------- Start Process ----------
+11/5/2565 9:59:49 LOG: Has file in directory
+11/5/2565 9:59:49 LOG: Processing: Draft.xlsx
+11/5/2565 9:59:49 LOG: Moved to queue folder: Draft.xlsx
+11/5/2565 9:59:49 LOG: Added to queue[CCD_BKK_DATASOURCE01]: Draft.xlsx
+11/5/2565 9:59:49 LOG:---------- End Process ----------
+11/5/2565 10:02:02 Stop service
+11/5/2565 10:03:14 Start service [FileProcess]
+11/5/2565 10:03:14 LOG: Fous on C:\BI_TEST\COABOS, C:\BI_TEST\DENSITY, C:\BI_TEST\OPMS_KPI, C:\BI_TEST\VOLUME
+11/5/2565 10:03:15 Start service [TaskQueue]
+11/5/2565 10:06:40 Stop service
+11/5/2565 10:08:51 Start service [FileProcess]
+11/5/2565 10:08:51 LOG: Fous on C:\BI_TEST\COABOS, C:\BI_TEST\DENSITY, C:\BI_TEST\OPMS_KPI, C:\BI_TEST\VOLUME
+11/5/2565 10:08:51 Start service [TaskQueue]
+11/5/2565 10:10:03 Stop service
+11/5/2565 10:12:06 Start service [FileProcess]
+11/5/2565 10:12:06 LOG: Fous on C:\BI_TEST\COABOS, C:\BI_TEST\DENSITY, C:\BI_TEST\OPMS_KPI, C:\BI_TEST\VOLUME
+11/5/2565 10:12:06 Start service [TaskQueue]
+11/5/2565 10:13:23 Stop service
+11/5/2565 10:13:31 Start service [FileProcess]
+11/5/2565 10:13:31 LOG: Fous on C:\BI_TEST\COABOS, C:\BI_TEST\DENSITY, C:\BI_TEST\OPMS_KPI, C:\BI_TEST\VOLUME
+11/5/2565 10:13:31 Start service [TaskQueue]
+11/5/2565 10:14:41 Stop service
+11/5/2565 10:14:48 Start service [FileProcess]
+11/5/2565 10:14:48 LOG: Fous on C:\BI_TEST\COABOS, C:\BI_TEST\DENSITY, C:\BI_TEST\OPMS_KPI, C:\BI_TEST\VOLUME
+11/5/2565 10:14:48 Start service [TaskQueue]
+11/5/2565 10:17:48 LOG:---------- Start Process ----------
+11/5/2565 10:17:48 LOG: Has file in directory
+11/5/2565 10:17:48 LOG: Processing: Draft.xlsx
+11/5/2565 10:17:48 LOG: Moved to queue folder: Draft.xlsx
+11/5/2565 10:17:48 LOG: Added to queue[CCD_BKK_DATASOURCE01]: Draft.xlsx
+11/5/2565 10:17:48 LOG:---------- End Process ----------
+11/5/2565 10:23:48 LOG:---------- Start Process ----------
+11/5/2565 10:23:48 LOG: Has file in directory
+11/5/2565 10:23:48 LOG: Processing: Draft.xlsx
+11/5/2565 10:23:48 LOG: Moved to queue folder: Draft.xlsx
+11/5/2565 10:23:48 LOG: Added to queue[CCD_BKK_DATASOURCE01]: Draft.xlsx
+11/5/2565 10:23:48 LOG:---------- End Process ----------
+11/5/2565 10:28:03 Stop service
+11/5/2565 10:28:18 Start service [FileProcess]
+11/5/2565 10:28:18 LOG: Fous on C:\BI_TEST\COABOS, C:\BI_TEST\DENSITY, C:\BI_TEST\OPMS_KPI, C:\BI_TEST\VOLUME
+11/5/2565 10:28:18 Start service [TaskQueue]
+11/5/2565 10:31:18 LOG:---------- Start Process ----------
+11/5/2565 10:31:18 LOG: Has file in directory
+11/5/2565 10:31:18 LOG: Processing: Draft.xlsx
+11/5/2565 10:31:18 LOG: Moved to queue folder: Draft.xlsx
+11/5/2565 10:31:18 LOG: Added to queue[CCD_BKK_DATASOURCE01]: Draft.xlsx
+11/5/2565 10:31:18 LOG:---------- End Process ----------
+11/5/2565 10:37:18 LOG:---------- Start Process ----------
+11/5/2565 10:37:18 LOG: Has file in directory
+11/5/2565 10:37:18 LOG: Processing: Draft.xlsx
+11/5/2565 10:37:18 LOG: Moved to queue folder: Draft.xlsx
+11/5/2565 10:37:18 LOG: Added to queue[CCD_BKK_DATASOURCE01]: Draft.xlsx
+11/5/2565 10:37:18 LOG:---------- End Process ----------
+11/5/2565 10:40:18 LOG:---------- Start Process ----------
+11/5/2565 10:40:18 LOG: Has file in directory
+11/5/2565 10:40:18 LOG: Processing: OPMS_Data_Source_2449.xlsx
+11/5/2565 10:40:18 LOG: Moved to queue folder: OPMS_Data_Source_2449.xlsx
+11/5/2565 10:40:18 LOG: Added to queue[CCD_BKK_DATASOURCE01]: OPMS_Data_Source_2449.xlsx
+11/5/2565 10:40:18 LOG:---------- End Process ----------
+11/5/2565 11:01:51 Stop service
+11/5/2565 11:02:36 Start service [FileProcess]
+11/5/2565 11:02:36 LOG: Fous on C:\BI_TEST\COABOS, C:\BI_TEST\DENSITY, C:\BI_TEST\OPMS_KPI, C:\BI_TEST\VOLUME
+11/5/2565 11:02:36 Start service [TaskQueue]
+11/5/2565 11:05:36 LOG:---------- Start Process ----------
+11/5/2565 11:05:36 LOG: Has file in directory
+11/5/2565 11:05:36 LOG: Processing: Draft_20.xlsx
+11/5/2565 11:05:36 LOG: Moved to queue folder: Draft_20.xlsx
+11/5/2565 11:05:36 LOG: Added to queue[CCD_BKK_DATASOURCE01]: Draft_20.xlsx
+11/5/2565 11:05:36 LOG:---------- End Process ----------
+11/5/2565 11:06:58 Stop service
+11/5/2565 11:07:08 Start service [FileProcess]
+11/5/2565 11:07:08 LOG: Fous on C:\BI_TEST\COABOS, C:\BI_TEST\DENSITY, C:\BI_TEST\OPMS_KPI, C:\BI_TEST\VOLUME
+11/5/2565 11:07:08 Start service [TaskQueue]
+11/5/2565 11:10:08 LOG:---------- Start Process ----------
+11/5/2565 11:10:08 LOG: Has file in directory
+11/5/2565 11:10:08 LOG: Processing: Draft_20.xlsx
+11/5/2565 11:10:08 LOG: Moved to queue folder: Draft_20.xlsx
+11/5/2565 11:10:08 LOG: Added to queue[CCD_BKK_DATASOURCE01]: Draft_20.xlsx
+11/5/2565 11:10:08 LOG:---------- End Process ----------
+11/5/2565 12:25:08 LOG:---------- Start Process ----------
+11/5/2565 12:25:08 LOG: Has file in directory
+11/5/2565 12:25:08 LOG: Processing: Draft_test_33022.xlsx
+11/5/2565 12:25:09 LOG: Moved to queue folder: Draft_test_33022.xlsx
+11/5/2565 12:25:09 LOG: Added to queue[CCD_BKK_DATASOURCE01]: Draft_test_33022.xlsx
+11/5/2565 12:25:09 LOG:---------- End Process ----------

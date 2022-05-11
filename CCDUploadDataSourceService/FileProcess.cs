@@ -187,6 +187,37 @@ namespace CCDUploadDataSourceService
                 }
                 Util.WriteToFile("LOG:---------- End Process ----------");
             }
+
+            //Draft Folder
+            if (!Util.isDirectoryEmpty(draftRootPathIn, draftFileExtension))
+            {
+                Util.WriteToFile("LOG:---------- Start Process ----------");
+
+                string[] files = Directory.GetFiles(draftRootPathIn, draftFileExtension, SearchOption.TopDirectoryOnly);
+                foreach (string file in files)
+                {
+                    try
+                    {
+                        Util.WriteToFile("LOG: Has file in directory");
+                        string fileName = Path.GetFileName(file);
+                        Util.WriteToFile("LOG: Processing: " + fileName);
+
+                        File.Move(file, Path.Combine(draftRootPathBackUp, fileName));
+                        Util.WriteToFile("LOG: Moved to queue folder: " + fileName);
+
+                        var content = new CCDMessage { fileName = Path.Combine(draftRootPathBackUp, fileName), sourceType = DataSourceType.Draft };
+                        var body = Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(content));
+
+                        mqChannel.BasicPublish(exchange: "", routingKey: mqChannelName, basicProperties: mqProperties, body: body);
+                        Util.WriteToFile("LOG: Added to queue[" + mqChannelName + "]: " + fileName);
+                    }
+                    catch (Exception ex)
+                    {
+                        Util.WriteToFile("ERR:" + ex.Message);
+                    }
+                }
+                Util.WriteToFile("LOG:---------- End Process ----------");
+            }
         }
 
     }
